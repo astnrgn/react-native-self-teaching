@@ -7,7 +7,7 @@ React Native is an open source mobile application framework created by Facebook 
 
 ## Background
 
-I chose this to study this technology in order to create a mobile version for my final project, an app for Martian weather. With a react-native version, more people would be able to access the application, rather than only through the browser.
+I chose this technology in order to create a mobile version for my final project, an app for Martian weather. With a react-native version, more people would be able to access the application, rather than only through the browser.
 
 ## Getting Started
 
