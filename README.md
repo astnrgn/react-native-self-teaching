@@ -5,13 +5,9 @@ In this repository are examples of a react-native application built for iOS.
 React Native is an open source mobile application framework created by Facebook in order to deliver a better mobile experience. It can be used to develop applications for Anndroid, iOS, Web, UWP.
 (https://facebook.github.io/react-native/)
 
-<br/><br/>
-
 ## Background
 
 I chose this to study this technology in order to create a mobile version for my final project, an app for Martian weather. With a react-native version, more people would be able to access the application, rather than only through the browser.
-
-<br/><br/>
 
 ## Getting Started
 
@@ -46,8 +42,6 @@ I chose this to study this technology in order to create a mobile version for my
 - Run the application:
   - cd Project
   - react-native run-ios
-
-<br/><br/>
 
 ## Built With
 
