@@ -11,7 +11,7 @@ I chose this to study this technology in order to create a mobile version for my
 
 ## Getting Started
 
-### Installing Your Own Project(for iOS on macOS)
+### Installing Your Own Project (for iOS on macOS)
 
 (via https://facebook.github.io/react-native/docs/getting-started)
 
